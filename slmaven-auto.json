@@ -6,6 +6,5 @@
   "labId": "integ_67e459ea-aac1-4b51-ba9c-07cd592bfbbd",
   "logEnabled": false,
   "logDestination": "console",
-  "logLevel": "off",
-  //"proxy": "http://127.0.0.1:8081"
+  "logLevel": "off"
 } 
