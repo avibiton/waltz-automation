@@ -3,7 +3,7 @@
   "createBuildSessionId": false,
   "executionType": "testsonly",
   "testStage": "Automation Tests",
-  "labId": "integ_67e459ea-aac1-4b51-ba9c-07cd592bfbbd",
+  "labId": "integ_7597c472-ee48-4801-b11d-2df978a3534d",
   "logEnabled": false,
   "logDestination": "console",
   "logLevel": "off"
